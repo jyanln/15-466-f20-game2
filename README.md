@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Foodshooter
 
-Author: (TODO: your name)
+Author: Jonathan Yan
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: A freak accident has caused the food at your restaurant to orbit around some arbitrary point in space! Clean up the neverending mess by shooting the food out of the sky.
 
 Screen Shot:
 
@@ -10,9 +10,11 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Shoot as many plates as you can before running out of either bullets or time!
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+WASD or mouse to move the camera. Space to shoot all plates directly in front of you. R to instantly reset the round.
+
+Sources: brunch.blend - Yixin He, provided with the base code.
 
 This game was built with [NEST](NEST.md).
 
